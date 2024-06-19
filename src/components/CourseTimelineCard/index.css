@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.course-card-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.row-container {
+  display: flex;
+  justify-content: space-between;
+}
+.course-title {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 600;
+  margin: 0px;
+}
+.row-container-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.circle {
+  margin-right: 7px;
+}
+.duration {
+  font-family: 'Roboto';
+  margin: 0px;
+}
+.description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.row-container-3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tags-list-items {
+  font-family: 'Roboto';
+  color: #1e293b;
+  background-color: rgba(218, 227, 244, 0.877);
+  border-radius: 5px;
+  border: none;
+  padding: 8px;
+  text-align: center;
+  margin: 6px;
+  font-weight: 500;
+}

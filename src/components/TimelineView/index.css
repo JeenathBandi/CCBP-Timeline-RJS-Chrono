@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.time-line-view-container {
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.my-journey {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 500;
+}
+.ccbp {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-weight: 600;
+}
